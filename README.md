@@ -1,2 +1,2 @@
 # Nigerian-ethnic-group-classifier
-Classifing ethnic groups in Africa based on dressing
+Classifing ethnic groups in Nigeria based on dressing
